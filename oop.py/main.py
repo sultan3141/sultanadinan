@@ -1,20 +1,4 @@
-'''from turtle import Turtle, Screen
-timmy=Turtle()
-timmy.shape("turtle")
-my_screen=Screen()
-timmy.speed(1)
-timmy.forward(100)
-timmy.right(90)
-timmy.pencolor("blue")
-timmy.pensize(3)
-my_screen.exitonclick()
-from prettytable import PrettyTable
-table=PrettyTable()
-print(table)
-table.add_column("Pokemon",["Pikachu","Squirtle","Charmander"])
-table.add_column("Type",["Electric","Water","Fire"])
-table.align="l"
-print(table)'''
+
 class CoffeeMachine:
     def __init__(self):
         self.resources = {
